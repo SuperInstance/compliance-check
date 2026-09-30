@@ -1,9 +1,11 @@
 [package]
 name = "compliance_check"
 version = "0.1.0"
-description = "A Rust library for Compliance_check"
+description = "Compliance Check — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/compliance_check"
+repository = "https://github.com/SuperInstance/compliance-check"
 edition = "2021"
+
+keywords = ["compliance-check"]
 
 [dependencies]
